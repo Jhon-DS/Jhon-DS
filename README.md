@@ -86,3 +86,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
 
 ## Projetos
 ### [E-Portal - TCC](https://github.com/Jhon-DS/E-Portal_TCC)
+*Projeto feito para realizar e gerenciar postagens de avisos para a ETEC de Poá, além de visualizar projetos extracurriculares.*
