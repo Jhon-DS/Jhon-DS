@@ -1,6 +1,6 @@
 # 👨‍💻 Jonathan Carvalho de Oliveira
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor de Software/web`**
 
 Me chamo Jonathan Carvalho de Oliveira e sou estudante de **Ciência da Computação pela UFABC (Universidade Federal do ABC)**.  
 Sou formado como **Técnico em Desenvolvimento de Sistemas pela ETEC de Poá**, onde desenvolvi projetos voltados para desenvolvimento web e sistemas.
